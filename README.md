@@ -30,3 +30,11 @@ Open project folder and click on the unreal engine project with the blue unreal 
 <br>3. Approve Review if functions properly</br>
 <br>4. If it doesnt function properly then send a review of changes needed</br>
 <br>5. If approved merge to Main</br>
+
+<h3>How to use maze generation tool?</h3> 
+1) Create new level navigate to All/Content/MazeGeneratorUtility </br>
+<br>2) Right click on Maze Generation Widget Utility </br>
+<br>3) Click on Run Editor Utility Widget </br>
+<br>4) Maze Generation Tool Widget will pop up </br>
+<br>5) Enter a number of rows then select generate maze </br>
+<br>6) To remove entire maze select delete maze </br>
